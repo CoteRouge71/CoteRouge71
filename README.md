@@ -1,4 +1,4 @@
-## Hi I'm Grégoire 👋
+## Hi, I'm Grégoire 👋
 
 I’m an international relations graduate and certified business intelligence analyst.
 
