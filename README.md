@@ -6,7 +6,7 @@ I’m interested in security, geopolitics, open-source research and strategic ri
 
 ## Current project
 
-**Taiwan Strait Security Monitor** — an independent public-source research project tracking reported PLA military activity around Taiwan and exploring potential implications for commercial maritime traffic.
+**Taiwan Strait Security Monitor** — an independent public-source research project mapping reported PLA military activity around Taiwan and exploring implications for commercial maritime traffic.
 
 <!--
 **gregosaintema/gregosaintema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
