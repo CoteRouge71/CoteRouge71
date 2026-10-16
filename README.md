@@ -5,9 +5,9 @@ I’m interested in security, geopolitics, open-source research and strategic ri
 
 ## Current project
 
-**Taiwan Strait Security Monitor** — The Taïwan Security Monitor Project is an independent, open-source research and mapping project examining publicly reported PLA military activity around Taiwan and its impact on commercial maritime traffic. It uses a documented, repeatable workflow to transform public-source reporting and data into source-linked, interactive maps.
+**Taiwan Strait Security Monitor** — The Taïwan Security Monitor Project is an independent, open-source mapping project examining reported PLA military activity around Taiwan alongside commercial maritime traffic. It uses this retrospective case study to build practical experience with MarineTraffic and demonstrate a repeatable workflow for researching, extracting, validating, and visualising maritime data.
 
-The project combines data collection, AI-assisted extraction, manual verification, data structuring, and visualisation. It is retrospective, not a real-time monitoring tool, and distinguishes observed patterns from evidence of disruption or causation. Its methods and limitations are documented so the workflow can be adapted to other geopolitical and security topics.
+The project combines public-source reporting, AI-assisted extraction, manual verification, and source-linked mapping to explore whether and how reported PLA activity may relate to changes in regional shipping. It is not a real-time monitoring tool: methods, data gaps, and limitations are documented, and observed patterns are distinguished from evidence of disruption or causation.
 
 <!--
 **gregosaintema/gregosaintema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
