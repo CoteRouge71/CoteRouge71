@@ -1,7 +1,6 @@
 ## Hi, I'm Greg 👋
 
 I’m an international relations graduate and certified business intelligence analyst.
-
 I’m interested in security, geopolitics, open-source research and strategic risk.
 
 ## Current project
