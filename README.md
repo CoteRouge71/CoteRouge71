@@ -1,13 +1,12 @@
 ## Hi, I'm Greg 👋
 
-I’m an international relations graduate and certified business intelligence analyst.
-I’m interested in security, geopolitics, open-source research and strategic risk.
+I’m an international relations graduate and certified business intelligence analyst interested in geopolitics and OSINT. My goal is to develop and share practical projects that turn public information and data into structured analysis and interactive maps. Through these projects, I aim to strengthen my skills in using vessel and flight-tracking platforms such as MarineTraffic, Flightradar24, and ADS-B Exchange.
 
 ## Current project
 
-**Taiwan Strait Security Monitor** — The Taïwan Security Monitor Project is an independent, open-source mapping project examining reported PLA military activity around Taiwan alongside commercial maritime traffic. It uses this retrospective case study to build practical experience with MarineTraffic and demonstrate a repeatable workflow for researching, extracting, validating, and visualising maritime data.
+**Taiwan Strait Security Monitor** — This is an open-source mapping project examining reported Chinese People’s Liberation Army (PLA) activity around Taiwan alongside commercial maritime traffic. It uses this retrospective case study to build practical experience with MarineTraffic and demonstrate a repeatable workflow for researching, extracting, and visualising maritime data.
 
-The project combines public-source reporting, AI-assisted extraction, manual verification, and source-linked mapping to explore whether and how reported PLA activity may relate to changes in regional shipping. It is not a real-time monitoring tool: methods, data gaps, and limitations are documented, and observed patterns are distinguished from evidence of disruption or causation.
+The project aims to combine public-source reporting, AI-assisted extraction, manual verification, and source-linked mapping to explore whether and how reported PLA military activity may relate to changes in regional maritime traffic.
 
 <!--
 **gregosaintema/gregosaintema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
